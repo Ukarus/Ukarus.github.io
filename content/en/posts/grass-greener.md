@@ -1,6 +1,8 @@
 ---
 title: "The Grass is always Greener on the other Side"
 date: 2022-12-01
+featured_image: '/images/attacking_house.PNG'
+# attacking_house
 ---
 
 ![Grass Greener Cover Image](/images/grass_greener.PNG)

@@ -1,6 +1,7 @@
 ---
 title: "Ufo Invaders"
 date: 2022-08-18
+featured_image: '/images/UfoInvadersBg.png'
 ---
 
 ![Ufo Invaders Cover Image](/images/UfoInvadersBg.png)
