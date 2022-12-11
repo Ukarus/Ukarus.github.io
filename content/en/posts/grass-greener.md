@@ -1,11 +1,10 @@
 ---
-title: "The Grass is always Greener on the other Fence"
-date: 2022-12-07T19:20:54-03:00
+title: "The Grass is always Greener on the other Side"
+date: 2022-12-01
 ---
 
-## Description
+![Grass Greener Cover Image](/images/grass_greener.PNG)
 
-![Boxes n' barrels Cover Image]({static}/images/boxesnbarrels.png)
+This is a simulation game about competing for a contest for the most beautiful garden, in which you must vandalize your neighbours garden's and repair your house, while also avoiding cameras and dogs when attacking. It was made in collaboration with [David094](https://github.com/david094) and [GrafEisenn](https://github.com/GrafEisenn) and it was a submission for the Github Game Off 2022.
 
-Boxes and barrels was a game made in collaboration with .....
-[Itch.io link](https://kameronbsmiley.itch.io/boxesnbarrels)
+Visit the [Itch.io](https://blonjon.itch.io/the-grass-is-always-greener-on-the-other-side) page.

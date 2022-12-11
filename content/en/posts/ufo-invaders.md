@@ -1,13 +1,11 @@
 ---
 title: "Ufo Invaders"
-date: 2022-12-07T19:20:54-03:00
+date: 2022-08-18
 ---
-
-## Ufo Invaders
 
 ![Ufo Invaders Cover Image](/images/UfoInvadersBg.png)
 
-Ufo invaders was a game i made for the CS50 course and it's heavily inspired by Space Invaders. This game was my first attempt at Unity and it was a bit of a challenge at that time. It features a score mechanic, powerups and it's difficulty increases every 10 seconds or so, adding more enemies to the level.
+Ufo invaders was a game i made for the [CS50's Introduction to Game Development](https://cs50.harvard.edu/games/2018/) course and it's heavily inspired by Space Invaders. This game was my first attempt at Unity and it was a bit of a challenge at that time. It features a score mechanic, powerups, an infinite scrolling background and a score mechanic.
 
 
-Visit the [Itch.io link](https://blonjon.itch.io/ufo-invaders) page!
+Visit the [Itch.io](https://blonjon.itch.io/ufo-invaders) page!
