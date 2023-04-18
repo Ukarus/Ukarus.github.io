@@ -3,4 +3,5 @@ title: "Games"
 date: 2017-03-02T12:00:00-05:00
 ---
 
-Games i have participated on, some of them just by myself and others in a team. I included the itch.io link in case you want to give it a try, most of the games can be played in the browser and they have their installer in case you want a better experience.
+Games i have worked on in a team or as a solo developer. 
+There's a variety of 2D and 3D, and most of them are done in either Godot or Unity.

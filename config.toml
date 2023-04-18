@@ -1,7 +1,7 @@
-baseURL = 'https://Ukarus.github.io'
+baseURL = 'https://ukarus.github.io'
 languageCode = 'es-CL'
 title = 'Home'
-theme = 'ananke'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
@@ -11,7 +11,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Juan Llanos Portfolio"
+    title = "Personal Portfolio"
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages

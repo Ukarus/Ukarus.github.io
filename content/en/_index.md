@@ -9,4 +9,4 @@ cascade:
 ---
 Welcome to my website with some of the work i made in the past few years. Here i upload everything about game dev and game art i made. Feel free to contact me:
 
-- [LinkedIn](linkedin.com/in/juan-josé-llanos-correa-706951159)
+- [LinkedIn](https://linkedin.com/in/juan-josé-llanos-correa-706951159)
