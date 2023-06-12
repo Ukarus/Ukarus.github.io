@@ -1,36 +1,71 @@
-baseURL = 'https://ukarus.github.io'
-languageCode = 'es-CL'
-title = 'Home'
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+baseurl = "https://ukarus.github.io"
+title = "Juanjo Llanos"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
 
-DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 5 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
-enableRobotsTXT = true
+paginate = 20
 
-[languages]
-  [languages.en]
-    title = "Personal Portfolio"
-    weight = 1
-    contentDir = "content/en"
-    # languageDirection = 'rtl' for Right-To-Left languages
+disqusShortname = "yourdiscussshortname"
 
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+[markup.highlight]
+style = "github-dark"
 
 [params]
-  text_color = ""
-  author = ""
-  favicon = ""
-  site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
-  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  recent_posts_number = 3
+  author = "Juan José Llanos Correa"
+  info = "Full Stack Software Engineer"
+  description = "Juan Llanos personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/linkedin_photo.jpg"
+  #gravatar = "john.doe@example.com"
 
-[[params.ananke_socials]]
-name = "github"
-url = "https://github.com/Ukarus"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2018
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customSCSS = ["scss/custom.scss"]
+  #customCSS = ["css/carousel.css"]
+  #customJS = ["js/carousel.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/Ukarus"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/juan-jos%C3%A9-llanos-correa-706951159/"
+[[params.social]]
+  name = "Itch.io"
+  icon = "fa fa-gamepad fa-2x"
+  weight = 2
+  url = "https://blonjon.itch.io/"
+
+# Menu links
+[[menu.main]]
+  name = "Projects"
+  weight = 1
+  url  = "en/projects/"
+[[menu.main]]
+  name = "Games"
+  weight = 2
+  url = "en/games/"
+[[menu.main]]
+  name = "About"
+  weight = 3
+  url = "en/about"

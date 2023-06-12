@@ -1,0 +1,42 @@
+baseURL = 'https://ukarus.github.io'
+languageCode = 'es-CL'
+title = 'Juan Llanos'
+theme = "hugo-coder"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 5 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[markup.highlight]
+style = "github-dark"
+
+[languages]
+  [languages.en]
+    title = "Juan Llanos"
+    weight = 1
+    contentDir = "content/en"
+    # languageDirection = 'rtl' for Right-To-Left languages
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  author = "Juan Llanos"
+  info = "Full stack Software Engineer"
+  description = "Juan Llanos personal website"
+  keywords = "blog,developer"
+  avatarurl = "/images/linkedin_photo.jpg"
+  since = 2019
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/Ukarus"

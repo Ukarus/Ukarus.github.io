@@ -2,6 +2,7 @@
 title: "Blender Models"
 date: 2022-12-11
 ---
+This is some of the work I've made by working with Blender, right now I'm working on the "[Complete Blender Creator: Learn 3D Modelling for Beginners](https://www.udemy.com/course/blendertutorial/)" with Blender 3.2
 
 ![Lighting image](/blender_images/lighting_exrcise.jpg)
 ![Materials image](/blender_images/materials_blender.png)
@@ -9,4 +10,4 @@ date: 2022-12-11
 ![Sheep](/blender_images/minecraft_sheep.png)
 ![Lighthouse](/blender_images/lighthouse.png)
 
-This is some of the work i made tinkering with Blender, right now i'm working on the "[Complete Blender Creator: Learn 3D Modelling for Beginners](https://www.udemy.com/course/blendertutorial/)" with Blender 3.2
+
