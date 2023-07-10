@@ -9,4 +9,6 @@ This repository contains the source code for my personal website in which i show
 
 # Local development
 
-1. Run ``` hugo server -D ```
+1. Clone it using ``` git clone --recurse-submodules ``` to include the theme source code
+2. In case cloned it without including the submodule use ``` git submodule update --init ```
+2. Run ``` hugo server -D ``` to watch the website on local server
