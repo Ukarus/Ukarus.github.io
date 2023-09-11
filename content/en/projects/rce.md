@@ -8,7 +8,7 @@ date: 2021-03-15
 
 ## Summary
 
-Registro Clínico Electronico (abbreviated as RCE) is a big project made for the Hospital San Juan de Dios and it involved a web application and many integrations with external services and other internal apps. This applicaton allowed doctors and specialists to save medical records, manage their calendar and search for relevant health information about their patients. 
+Registro Clínico Electronico (abbreviated as RCE) is a big project made for the "Hospital San Juan de Dios" that involved a web application and many integrations with external services and other internal apps. This applicaton allowed doctors and specialists to save medical records, manage their calendar and search for relevant health information about their patients. 
 
 ## Tech Stack
 
